@@ -2,8 +2,8 @@
 ## https://selfieportifolio.vercel.app/
 
 
-- 🔭 I’m currently working as a free lancer web developer
-- 🌱 I’m currently learning Typescript and Node-js
+- 🔭 I’m currently working as a full stack developer at LW Tecnologia
+- 🌱 I’m currently learning Typescript and React Native
 
  <div>
   <a href="https://selfieportifolio.vercel.app/">
