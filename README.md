@@ -1,6 +1,4 @@
 ### Hi! I'm Thiago Oliveira
-## https://selfieportifolio.vercel.app/
-
 
 - 🔭 I’m currently working as a full stack developer(React, Node, Typescript, React Native) at One Monitora
 - 🌱 I’m currently learning  React Native and Micro Services
