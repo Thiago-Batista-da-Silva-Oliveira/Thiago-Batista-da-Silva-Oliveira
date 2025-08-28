@@ -1,7 +1,7 @@
 ### Hi! I'm Thiago Oliveira
 
-- 🔭 I’m currently working as a full stack developer(React, Node, Typescript, React Native) at One Monitora
-- 🌱 I’m currently learning  React Native and Micro Services
+- 🔭 I’m currently working as a full stack developer(React, Node, Typescript, React Native) at LW TECNOLOGIA
+- 🌱 I’m currently studying MBA Full Cycle Architecture at Full Cycle
 
 <div style="display: inline_block"><br>
     <img align="center" alt="Thiago-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
